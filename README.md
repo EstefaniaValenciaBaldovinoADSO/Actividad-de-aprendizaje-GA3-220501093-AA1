@@ -1,4 +1,5 @@
 **Estefania  Valencia Baldovino** 
 
-Consultando el material de apoyo de la plataforma de territorium [[click]](https://sena.territorio.la/content/index.php/institucion/Titulada/institution/SENA/Tecnologia/228118/Contenido/OVA/CF12/index.html#/) **se realiza el diseño de las tablas de verdades.** Lenguajes utilizados para el diseño ***HTML5 Y CSS3*** [Visitar el sitio]( https://estefaniavalenciabaldovinoadso.github.io/Actividad-de-aprendizaje-GA3-220501093-AA1/)
- 
+Consultando el material de apoyo de la plataforma de territorium [[clic]](https://sena.territorio.la/content/index.php/institucion/Titulada/institution/SENA/Tecnologia/228118/Contenido/OVA/CF12/index.html#/) **se realiza el diseño de las tablas de verdades.** Lenguajes utilizados para el diseño ***HTML5 Y CSS3*** [Visitar el sitio]( https://estefaniavalenciabaldovinoadso.github.io/Actividad-de-aprendizaje-GA3-220501093-AA1/)
+
+Desarrollando el ejercicio propuesto (2 * 5) < 8 || ((4 *6 ) > (2 * 5) en la actividad podemos concluir que según la tabla de verdades para disyunción "or", el resultado es ***true**.* Y para el ejercicio (( 4 + 5 ) < 3 && (( 5 * 5 ) + ( 4 + 25 < 3 ) )), según la table de verdades para la conjunción "and" el resultado de la ecuación es ***false**.*
